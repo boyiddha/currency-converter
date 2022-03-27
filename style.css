@@ -108,3 +108,13 @@ form button{
 form button:hover{
   background: #4534fe;
 }
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 2%;
+  height: 65px;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
