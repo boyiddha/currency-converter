@@ -111,7 +111,7 @@ form button:hover{
 .footer {
   position: fixed;
   left: 0;
-  bottom: 2px;
+  bottom: 3px;
   width: 100%;
   background-color: gray;
   color: white;
