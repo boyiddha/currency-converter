@@ -111,10 +111,9 @@ form button:hover{
 .footer {
   position: fixed;
   left: 0;
-  bottom: 2%;
-  height: 65px;
+  bottom: 2px;
   width: 100%;
-  background-color: red;
+  background-color: gray;
   color: white;
   text-align: center;
 }
